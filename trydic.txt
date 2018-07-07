@@ -1,1 +1,1 @@
-This file aims to arrange git from Windows.
+This file aims to adjust git from Windows.
